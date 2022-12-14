@@ -26,14 +26,10 @@ http://udacityghannam.s3-website-us-east-1.amazonaws.com/
 
 ![CircleCI Pipeline](./documentation/images/ci-deploy-setp.png)
 
-App Structure
-
 ![Pipeline Schema](./documentation/images/pipeline.png)
+
+![Env variables](./documentation/images/ci-evn.png)
 
 ### Architecture
 
 ![Architecture](./documentation/images/system.png)
-
-## License
-
-[License](LICENSE.txt)
